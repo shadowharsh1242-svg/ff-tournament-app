@@ -1,0 +1,1 @@
+-- see repository for full schema; applied via Supabase migration in this workflow
